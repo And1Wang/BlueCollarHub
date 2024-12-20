@@ -8,6 +8,7 @@ public class BlueCollarHubApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BlueCollarHubApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
